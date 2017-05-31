@@ -18,9 +18,9 @@ programming logic devices manufactured by Altera and sold by
 Altera or its authorized distributors.  Please refer to the 
 applicable agreement for further details.
 */
-(header "graphic" (version "1.4"))
+(header "symbol" (version "1.2"))
 (symbol
-	(rect 760 112 992 496)
+	(rect 16 16 248 400)
 	(text "data_path" (rect 5 0 61 14)(font "Arial" (font_size 8)))
 	(text "inst" (rect 8 368 25 380)(font "Arial" ))
 	(port
